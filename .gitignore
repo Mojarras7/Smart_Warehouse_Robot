@@ -1,0 +1,36 @@
+# ROS 2 workspace artifacts
+build/
+install/
+log/
+COLCON_IGNORE
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# Screen recordings and raw media captures
+Screencast*.mp4
+*.bag
+*.db3
+rosbag2_*/
+
+# Agent workflow and internal assistant metadata
+.agents/
+AGENTS.md
+

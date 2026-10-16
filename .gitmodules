@@ -1,0 +1,6 @@
+[submodule "smart_warehouse_robot"]
+	path = smart_warehouse_robot
+	url = https://github.com/antoniofp/smart_warehouse_robot.git
+[submodule "yahboomR2_sim"]
+	path = yahboomR2_sim
+	url = https://github.com/Mojarras7/yahboomR2_sim.git

@@ -1,0 +1,9 @@
+repositories:
+  smart_warehouse_robot:
+    type: git
+    url: https://github.com/antoniofp/smart_warehouse_robot.git
+    version: main
+  yahboomR2_sim:
+    type: git
+    url: https://github.com/Mojarras7/yahboomR2_sim.git
+    version: main
